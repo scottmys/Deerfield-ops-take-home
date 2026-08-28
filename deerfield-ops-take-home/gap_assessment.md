@@ -2,28 +2,24 @@
 
 ## Method
 
-Each gap scored on three things: impact on scaling from 10 to 30, risk if left unaddressed another quarter, and how fast it is to fix. Ranked, not exhaustive, top 5 to 7 only.
+Each gap is scored on three things: impact on getting the team from 10 to 30 people, risk if it sits unaddressed for another quarter, and how fast it is to fix. Ranked top 7, not exhaustive. Everything below is sourced directly from interviews with David, Priya, Marcus, Elena, James, and Sarah, not assumed.
+
+## The clearest evidence came from a live example, not a hypothetical
+
+During the interviews, Marcus flagged that his biotech patient recruitment pilot, due to launch in three weeks, was stuck. Following up surfaced a real, current problem: there is no formal agreement establishing Deerfield's legal right to use the patient data the pilot depends on. Marcus called this the "free resource trap," the assumption that data access flows just because Deerfield is the investor. This is not a theoretical gap. It is gap 4 below, happening in real time, and it is why that gap is ranked as high as it is despite touching fewer people than the top two.
 
 ## Ranked gaps
 
-1.
-2.
-3.
-4.
-5.
+**1. Hiring pipeline speed and ownership.** Both pod leads are acting as their own recruiter, sourcing, screening, and scheduling themselves, because HR has only 20 to 25 percent of its time available for DI and no dedicated technical recruiter. The cost is quantified: a recent ML hire took four months, two candidates were lost over an unclear timeline, and one was lost to Google specifically. David made the explicit call that this is the top priority when asked to choose, his reasoning is a multiplier argument, fixing hiring buys leverage on everything else, since more people means the team can staff its way out of the vendor problems and the coordination gaps. Ranked first on his own tie breaking judgment plus the clearest quantified cost of any gap.
 
-## Notes from interviews
+**2. Vendor and contract procurement visibility.** The most broadly confirmed gap in the whole assessment, named independently by all five people interviewed. David has no real time visibility into spend and had a near miss on a $40,000 auto renewal for a tool nobody uses. Priya is manually coordinating every vendor request across four parties herself. Marcus described compliance review timing as a complete black box. James called himself an archaeologist trying to piece together what the team is actually committed to, and found contracts signed by people who no longer work at the firm. Sarah confirmed the real driver of slow reviews is missing documentation, not volume. Ranked second only because David explicitly ranked hiring above it when forced to choose, the evidence base here is actually the strongest of any gap.
 
-Paste raw findings here as you go, then distill into the ranked list above.
+**3. Cross pod dependency visibility.** Marcus's own top pick when asked to choose one fix. The two pods have no shared way to see each other's capacity, which led directly to a two week promise to a portfolio company that took six, because Marcus did not know Priya's pipeline was already backed up. This also connects to David's own need for basic project visibility ahead of the Quarterly Investment Committee review in six weeks.
 
-### David Chen (CIO)
+**4. Product ownership and requirements scoping.** Confirmed independently by three people from three angles. Priya is losing real engineering time translating vague, unscoped requests from investment MDs. Marcus is dealing with severe scope creep on portfolio company engagements because there is no per project agreement, only a generic master services agreement, a six week project became fourteen. Sarah independently asked for the same fix from the compliance side, a pre-approved template for portfolio company deployments covering liability and data handling. The live biotech pilot incident above is a direct, current instance of this exact gap.
 
-### Priya Sharma (AI Investment Systems)
+**5. Onboarding and access.** Two related but separate problems. Internally, a new hire recently waited three weeks for a laptop and GitHub access, caused by an unmonitored IT queue, an outdated onboarding document, and a shared, part time security reviewer who also serves other teams. Externally, Marcus said the lack of a standard onboarding package for new portfolio company engagements costs roughly three weeks per project chasing credentials before any work starts. Elena confirmed onboarding has fallen through the cracks between HR, IT, and Compliance, and asked directly for an operations partner to help close it.
 
-### Marcus Thompson (Portfolio Enablement)
+**6. Cost center and headcount tagging, and a real financial model.** James confirmed the cost center coding was updated last quarter but the change did not reach everyone, and the handoff between Finance and HR currently breaks with no owner on the DI side to verify it. He also has no model tying cloud spend, seat licenses, and office space to the hiring plan, only salary. Budget planning for next year starts in roughly 75 days, both are needed by then.
 
-### Elena Rodriguez (HR)
-
-### James Okonkwo (Finance)
-
-### Sarah Kim (Compliance)
+**7. A formal access control matrix.** Sarah has been requesting a documented map of who can access investment sensitive data for a while and it has not materialized. This is a real regulatory exposure around information barriers, not just an inconvenience, but it is the smallest and cheapest fix of the seven.
