@@ -12,7 +12,7 @@ Built as three chunks of 30 days, not a flat list. Each chunk ships the full min
 
 **Onboarding.** Fix the existing onboarding document rather than write a new one, it is a year old and about 40 percent accurate, missing that IT needs two weeks notice and the current cost center code. Build the DI specific technical steps, GitHub and dev environments, together with Elena, since her standard materials only cover the investment side.
 
-**In parallel, not sequenced behind hiring.** Start a first pass vendor and contract inventory, even a spreadsheet, capturing current spend and renewal dates. The $40,000 near miss is a live financial risk and should not wait, even while hiring leads the plan.
+**Ship the vendor and procurement tracker, not just seed it.** A working version already exists, spend and renewal tracking, a status board across the review stages, and the two gate fast lane logic, James's dollar threshold and Sarah's data sensitivity gate, built directly into the intake. Populate it with the real vendor inventory in week one or two and get David and James looking at real data immediately rather than waiting. The $40,000 near miss is a live financial risk, this should not sit behind hiring, it ships in parallel starting now.
 
 ## Days 31 to 60
 
@@ -22,7 +22,7 @@ Built as three chunks of 30 days, not a flat list. Each chunk ships the full min
 
 **Finance, a real model.** Build a financial model with James tying cloud spend, seat licenses, and office space to the hiring plan, not just salary, using his historical data and the team's actual requirements.
 
-**The vendor and contract fast lane, fully implemented.** Two gates, not one: James's threshold, under $5,000 annually and not a multi year commitment, and Sarah's data sensitivity gate, no proprietary research, no PII, not used for trade signals, and a vendor with already vetted confidentiality terms. Both have to pass to fast track, either failing routes to full review. Named owners across Legal, Security, and Compliance for anything outside that criteria, plus a standing reserved review slot with the shared, part time security reviewer instead of an ad hoc queue.
+**The vendor and contract fast lane, made real, not built, that part is already done.** The two gate logic, James's threshold, under $5,000 annually and not a multi year commitment, and Sarah's data sensitivity gate, no proprietary research, no PII, not used for trade signals, and a vendor with already vetted confidentiality terms, is already live in the tool shipped in the first 30 days. What is left here is organizational, not technical: name real, accountable owners across Legal, Security, and Compliance for anything the gates route to full review, and negotiate an actual standing reserved review slot with the shared, part time security reviewer, since that is a capacity and scheduling problem no software fixes on its own.
 
 **Two templates, each doubly justified.** A statement of work and data handling template for portfolio company engagements, requested independently by Marcus, from the scope side, and Sarah, from the liability side. A formal access control matrix with Sarah mapping who can access investment sensitive data, a real regulatory exposure she has been raising without resolution.
 
@@ -30,7 +30,7 @@ Built as three chunks of 30 days, not a flat list. Each chunk ships the full min
 
 **Onboarding playbook, two cases.** Internal employee provisioning, and a lightweight external onboarding package for new portfolio company engagements, since the current lack of one costs roughly three weeks per engagement chasing credentials before work starts.
 
-**Land the two big commitments.** The vendor tracker and the financial model with James need to be in finished, usable shape here, budget planning for next year starts around day 75.
+**Land the financial model commitment.** The vendor tracker is already live and in use since the first 30 days, what lands here is the financial model with James, needs to be in finished, usable shape, budget planning for next year starts around day 75.
 
 **First retro.** Review what is working across everything above and adjust.
 
