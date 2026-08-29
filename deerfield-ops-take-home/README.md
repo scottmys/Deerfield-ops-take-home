@@ -17,6 +17,6 @@ Interviews surfaced one live, unresolved issue during the process itself: Marcus
 
 ## Prototype
 
-Live preview: https://id-preview--31ecfa10-3501-45bc-8b71-242f641abf0b.lovable.app
+Live app: https://deerfield-procure-dash.lovable.app
 
 Screenshots and the full breakdown of what it does and which gap it addresses are in the [prototype folder](./prototype/).

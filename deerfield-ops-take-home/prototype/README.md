@@ -1,6 +1,6 @@
 # Prototype: the Vendor & Procurement Tracker
 
-Live preview: https://id-preview--31ecfa10-3501-45bc-8b71-242f641abf0b.lovable.app
+Live app: https://deerfield-procure-dash.lovable.app
 
 Built with Lovable. Informally nicknamed "the Pizza Tracker," a nod to Marcus's own phrase when describing what compliance review visibility was missing, "no dashboard or pizza tracker to see where things are stuck."
 
