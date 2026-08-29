@@ -9,7 +9,7 @@ Hiring pipeline speed is the team's biggest gap, David's own call when forced to
 - [Gap assessment](./gap_assessment.md)
 - [90 day plan](./ninety_day_plan.md)
 - [Cross functional coordination model](./coordination_model.md)
-- [Prototype](./prototype/), live preview and screenshots inside
+- [Prototype](./prototype/), live app and screenshots inside
 
 ## Assumptions
 
