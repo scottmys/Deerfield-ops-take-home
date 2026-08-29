@@ -2,7 +2,13 @@
 
 Built as three chunks of 30 days, not a flat list. Each chunk ships the full minimum version of what it covers rather than adding structure piece by piece, half measures tend to slide back into old habits because the change is not different enough to stick. Every item here follows the standard David set directly: the smallest version that actually works, nothing that needs a manual, nothing built for a company ten times this size.
 
+**One caveat upfront.** This is written conservatively, sequenced so nothing here depends on moving unusually fast. In practice, several of the days 31 to 60 items will likely pull forward into the first 30 once real conversations and real usage start, cross pod visibility especially, since David needs that ready for the Investment Committee review in six weeks, not by day 60. Read the day counts below as an outer bound, not a target to hit exactly.
+
 ## First 30 days
+
+**Start the technical recruiter search now, not later.** A dedicated technical recruiter for DI is a long lead item in its own right, sourcing and hiring a recruiter takes real time before that person can even start sourcing engineers. Deciding this is needed only once the 90 days are up pushes the actual fix out by months on top of months. Start that search in parallel with everything else in this window, the hire itself will land after day 90, but the search should not.
+
+**Stand up all five coordination mechanisms immediately.** The DI Hiring Sync, DI Finance Sync, DI Compliance Review, the novel build flag at intake, and the Director of Operations owning vendor and contract coordination end to end, all detailed in the coordination model. None of these cost anything to start, they are calendar time, not build time, so they begin in week one alongside everything else here, even though what gets discussed inside them, the financial model, the fast lane's named owners, the templates, builds out over the following 60 days.
 
 **Immediate, week one.** Chase down the missing data sharing agreement for the biotech pilot alongside Marcus, who is already working the portfolio company's clinical ops lead. This is the one live, time boxed problem in the entire plan, with a real three week clock on it, and it is a direct instance of the gap the statement of work template below is meant to prevent going forward.
 
@@ -18,9 +24,7 @@ Built as three chunks of 30 days, not a flat list. Each chunk ships the full min
 
 **Cross pod visibility, due for the Quarterly Investment Committee review in six weeks.** Build a shared prioritization method both pods actually use, including a protected capacity allocation for technical debt, Priya's real split is 70 percent direct requests and 30 percent technical debt, currently taken informally rather than defended. This gives David real project visibility to bring to the partners instead of guessing.
 
-**HR, a changed cadence, not a new one.** Turn David and Elena's existing monthly meeting from reactive firefighting into one tied to the actual 10 to 30 roadmap. Name the operations role as Elena's single point of contact for the technical roadmap, requirements, and interviewer availability, exactly what she asked for directly.
-
-**Finance, a real model.** Build a financial model with James tying cloud spend, seat licenses, and office space to the hiring plan, not just salary, using his historical data and the team's actual requirements.
+**Finance, a real model.** Build a financial model with James tying cloud spend, seat licenses, and office space to the hiring plan, not just salary, using his historical data and the team's actual requirements. This is the substantive work item that flows through the DI Finance Sync established in the first 30 days.
 
 **The vendor and contract fast lane, made real, not built, that part is already done.** The two gate logic, James's threshold, under $5,000 annually and not a multi year commitment, and Sarah's data sensitivity gate, no proprietary research, no PII, not used for trade signals, and a vendor with already vetted confidentiality terms, is already live in the tool shipped in the first 30 days. What is left here is organizational, not technical: name real, accountable owners across Legal, Security, and Compliance for anything the gates route to full review, and negotiate an actual standing reserved review slot with the shared, part time security reviewer, since that is a capacity and scheduling problem no software fixes on its own.
 
@@ -38,4 +42,4 @@ Built as three chunks of 30 days, not a flat list. Each chunk ships the full min
 
 ## What comes next, if there were another 90 days
 
-A dedicated technical recruiter for DI, since Elena's 20 to 25 percent capacity is a real constraint, not just a process gap. The capacity planning model for Marcus's pod. A second phase of the roadmap tool with real time status rather than the lightweight version built for the IC review.
+Converting the technical recruiter search started in the first 30 days into an actual hire, that person lands here, not earlier, but the search cannot start here or the gap just repeats itself on a delay. The capacity planning model for Marcus's pod. A second phase of the roadmap tool with real time status rather than the lightweight version built for the IC review.

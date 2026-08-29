@@ -6,7 +6,7 @@ Built with Lovable. Informally nicknamed "the Pizza Tracker," a nod to Marcus's 
 
 ## Which gap this addresses
 
-Gap 2 in the gap assessment, vendor and contract procurement visibility, the single most broadly confirmed gap in the whole assessment. All five people interviewed named it independently: David's $40K near miss on an auto renewal, Priya manually coordinating requests across four parties herself, Marcus calling review timing a complete black box, James finding orphaned contracts and duplicate tool spend, and Sarah confirming the real driver of slow reviews is missing documentation, not volume.
+Gap 2 in the gap assessment, vendor and contract procurement visibility, the single most broadly confirmed gap in the whole assessment. All five people interviewed named it independently: David's $40,000 near miss on an auto renewal, Priya manually coordinating requests across four parties herself, Marcus calling review timing a complete black box, James finding orphaned contracts and duplicate tool spend, and Sarah confirming the real driver of slow reviews is missing documentation, not volume.
 
 ## What it does
 
