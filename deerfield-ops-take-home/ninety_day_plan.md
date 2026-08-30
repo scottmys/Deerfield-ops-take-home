@@ -44,4 +44,4 @@ Three of the five front load on purpose, rather than starting at their steady st
 
 ## What comes next, if there were another 90 days
 
-Converting the technical recruiter search started in the first 30 days into an actual hire. That person lands here, not earlier, but the search cannot start here or the gap just repeats itself on a delay. The capacity planning model for Marcus's pod. A second phase of the roadmap tool with real time status, rather than the lightweight version built for the IC review.
+Converting the technical recruiter search started in the first 30 days into an actual hire. That person lands here, not earlier, but the search cannot start here or the gap just repeats itself on a delay. The capacity planning model for Marcus's pod. A second phase of the roadmap tool with real time status, rather than the lightweight version built for the IC review. The more detailed shared roadmap view.
