@@ -40,7 +40,7 @@ Three of the five front load on purpose, rather than starting at their steady st
 
 **First retro.** Review what is working across everything above and adjust.
 
-**Deliberately out of scope for this window.** The shared roadmap view David wants, beyond what the six week deadline already forced into days 31 to 60, and a lightweight capacity planning model Marcus wants, tying headcount to project throughput. Both are real, and both are 18 month items, not part of this window.
+**Deliberately out of scope for this window.** The shared roadmap view David wants, beyond what the six week deadline already forced into days 31 to 60, and a lightweight capacity planning model Marcus wants, tying headcount to project throughput. Both of these will be deferred to 90-120 days, unless otherwise decided by David / Director of Ops.
 
 ## What comes next, if there were another 90 days
 
