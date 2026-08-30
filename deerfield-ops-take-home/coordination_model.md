@@ -1,6 +1,6 @@
 # Cross functional coordination model
 
-Five specific mechanisms, each with a named meeting, a fixed attendee list, a cadence, an agenda, and a list of what actually gets decided there, not just discussed. The real value this role adds is absorbing coordination that pod leads and David are currently doing themselves on top of their actual jobs, so each mechanism below either replaces a meeting that already exists or replaces an informal habit, like emailing whoever might be free, with a specific owner.
+Five specific mechanisms, each with a named meeting, a fixed attendee list, a cadence, an agenda, and a list of what actually gets decided there, not just discussed. The real value this role adds is absorbing coordination that pod leads and David are currently doing themselves on top of their actual jobs. Each mechanism below either replaces a meeting that already exists, or replaces an informal habit, like emailing whoever might be free, with a specific owner.
 
 ## Summary
 
@@ -14,9 +14,9 @@ Five specific mechanisms, each with a named meeting, a fixed attendee list, a ca
 
 ## DI Hiring Sync, Director of Operations and Elena Rodriguez, weekly for the first 30 days, then biweekly
 
-Weekly at the start on purpose. Hiring, Finance, and Compliance all front load for their own reasons, this one because the team is adding 3 to 4 people a quarter, the recruiter search is only just starting, and a stalled offer has already cost one candidate to Google, a monthly check would miss a stall for weeks. Once the initial search is running and the first wave of requisitions is moving, this steps down to biweekly, matching the ongoing hiring pace rather than staying at monthly reactive spacing or staying weekly longer than the acute period actually needs.
+Weekly at the start on purpose. Hiring, Finance, and Compliance all front load, each for its own reason. This one front loads because the team is adding 3 to 4 people a quarter, the recruiter search is only just starting, and a stalled offer has already cost one candidate to Google. A monthly check would miss a stall for weeks. Once the initial search is running and the first wave of requisitions is moving, this steps down to biweekly, matching the ongoing hiring pace.
 
-This replaces the meeting that already exists between David and Elena, David does not need to be in this one going forward, that time back is part of what makes hiring the top priority actually pay off. Between meetings, the Director of Operations is Elena's single point of contact for technical requirements and interviewer availability, so she is not fielding separate, uncoordinated asks from Priya and Marcus. If David wants visibility, he gets a short written summary after each sync, not a seat in the meeting.
+This replaces the meeting that already exists between David and Elena. David does not need to be in this one going forward, that time back is part of what makes hiring the top priority actually pay off. Between meetings, the Director of Operations is Elena's single point of contact for technical requirements and interviewer availability, so she is not fielding separate, uncoordinated asks from Priya and Marcus. If David wants visibility, he gets a short written summary after each sync, not a seat in the meeting.
 
 **Agenda**
 1. Review the hiring plan by pod against the 10 to 30 roadmap, note anything that has changed since the last sync.
@@ -33,7 +33,7 @@ This replaces the meeting that already exists between David and Elena, David doe
 
 ## DI Finance Sync, Director of Operations and James Okonkwo, weekly for the first two weeks, then biweekly, 30 minutes
 
-Weekly at the very start, not the ongoing cadence. James described himself as an archaeologist piecing together what the team is actually committed to, and the vendor inventory built in the first 30 days is the first real attempt at a clean answer. Getting that data accurate takes fast back and forth in the first couple of weeks, once it holds up, biweekly is enough to maintain it and catch new spend as it comes in.
+Weekly at the very start, not the ongoing cadence. James described himself as an archaeologist piecing together what the team is actually committed to. The vendor inventory built in the first 30 days is the first real attempt at a clean answer, and getting that data accurate takes fast back and forth in the first couple of weeks. Once it holds up, biweekly is enough to maintain it and catch new spend as it comes in.
 
 Outside of this meeting, James can check the vendor tracker itself at any time rather than waiting for an update, which is the real fix to his own complaint, that he is a historian instead of a partner.
 
@@ -50,7 +50,7 @@ Outside of this meeting, James can check the vendor tracker itself at any time r
 
 ## DI Compliance Review, Director of Operations and Sarah Kim, weekly for the first 30 days, then monthly, 30 to 45 minutes
 
-Weekly at the start because three things are still unsettled: the fast lane criteria are brand new and need to be checked against real requests to catch any miscategorization early, the access control matrix is a new build, not a maintenance task, and the biotech pilot's missing data sharing agreement is still an open thread Sarah needs visibility into while Marcus chases it down. Once the criteria have proven out against real volume and the matrix is built, this steps down to monthly.
+Weekly at the start because three things are still unsettled. The fast lane criteria are brand new and need to be checked against real requests to catch any miscategorization early. The access control matrix is a new build, not a maintenance task. And the biotech pilot's missing data sharing agreement is still an open thread Sarah needs visibility into while Marcus chases it down. Once the criteria have proven out against real volume and the matrix is built, this steps down to monthly.
 
 **Agenda**
 1. Review everything currently sitting in the fast lane versus full review queue, confirm nothing has been miscategorized against the two gate criteria, cost and data sensitivity.
@@ -65,7 +65,7 @@ Weekly at the start because three things are still unsettled: the fast lane crit
 
 ## Novel build check in, ad hoc, triggered at intake
 
-A single yes or no flag on every intake, is this a new type of build or a new type of data use. A yes triggers this check in before formal submission, not after. This is Sarah's own fix, a seat at the table during design rather than a gate at launch, and it is what turns a three day review into a three week one when it is skipped.
+A single yes or no flag on every intake: is this a new type of build, or a new type of data use. A yes triggers this check in before formal submission, not after. This is Sarah's own fix, a seat at the table during design rather than a gate at launch, and it is what turns a three day review into a three week one when it is skipped.
 
 **Agenda**
 1. The pod lead walks through what is being built and what data or systems it touches.
@@ -78,7 +78,7 @@ A single yes or no flag on every intake, is this a new type of build or a new ty
 
 ## Vendor and contract coordination, per request, Director of Operations only
 
-Today a single vendor request touches four parties, the vendor itself, Legal, the shared part time security reviewer, and Sarah in Compliance, and Priya is the one manually chasing all four herself on top of building. This is not a standing meeting, it is a workflow the Director of Operations owns end to end, logged in the vendor tracker so status is visible without anyone having to ask.
+Today a single vendor request touches four parties: the vendor itself, Legal, the shared part time security reviewer, and Sarah in Compliance. Priya is the one manually chasing all four herself, on top of building. This is not a standing meeting, it is a workflow the Director of Operations owns end to end, logged in the vendor tracker so status is visible without anyone having to ask.
 
 **What happens on each request**
 1. Check the request against the two gate criteria, cost and data sensitivity.
